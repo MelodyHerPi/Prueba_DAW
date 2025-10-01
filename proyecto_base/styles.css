@@ -77,14 +77,14 @@ h2 {
     color: #667eea;
     margin-bottom: 1.5rem;
     font-size: 2rem;
-    border-bottom: 3px solid #667eea;
+    border-bottom: 3px solid #ff6b6b;
     padding-bottom: 0.5rem;
 }
 
 /* Sección Hero */
 .hero {
     text-align: center;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #ff6b6b 0%, #764ba2 100%);
     color: white;
     padding: 4rem 2rem;
     margin-bottom: 3rem;
